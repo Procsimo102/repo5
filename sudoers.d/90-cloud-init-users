@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.1-14-g2e17a0d6-0ubuntu1~20.04.3 on Thu, 20 Jun 2024 17:25:05 +0000
+
+# User rules for ildar
+ildar ALL=(ALL) NOPASSWD:ALL
